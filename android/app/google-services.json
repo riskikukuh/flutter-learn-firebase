@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "613466987366",
+    "project_id": "todongab",
+    "storage_bucket": "todongab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613466987366:android:373c4a910f0fc2afed86a7",
+        "android_client_info": {
+          "package_name": "com.example.todo_ngab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613466987366-e904pvbh5mg68eqpff2qjto3s266lkb8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVHp7Ak2IrcHmBFKUpAV2sT2vLjukChw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613466987366-e904pvbh5mg68eqpff2qjto3s266lkb8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
